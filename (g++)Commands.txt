@@ -1,0 +1,14 @@
+g++ <filename>.(filetype) 
+|| ex. g++ main.cpp : compiles to an a.exe file ||
+
+g++ <filename>.(filetype) -o <filename>.(filetype) 
+|| ex. g++ main.cpp -o main.exe : Specifies exe name||
+
+g++ -Wall : outputs compile warnings
+
+g++ <filename_1>.(filetype_1) <filename_2>.(filetype_2) -o <main_filename>.(filetype) 
+|| ex. g++ main.cpp utils.h -o main.exe : compiles and links multiple files || 
+
+
+Visit:
+https://caiorss.github.io/C-Cpp-Notes/compiler-flags-options.html

@@ -1,0 +1,21 @@
+Ctrl + P : Find and Select/Open File
+
+Ctrl + X (without highlight) : cuts current line
+
+Alt + Shift + UP/DOWN : Immediate copy line 
+
+Ctrl + / : Comments/Uncomments block or line of code
+
+Ctrl + Shift + . : Displays all file entities to select
+
+Ctrl + ` : Switch between terminal and editor
+
+Ctrl + Shift + E : Jump to Explorer
+
+Ctrl + D : Highlight immediate word from cursor position
+
+Ctrl + J : Jump to Editor
+
+Ctrl + K : Jump to Terminal
+
+https://superuser.com/questions/1270103/how-to-switch-the-cursor-between-terminal-and-code-in-vscode

@@ -1,0 +1,14 @@
+cd : change directory
+mkdir : make new directory
+rm : remove file
+rm -r : remove non-empty directory
+rmdir : remove directory
+cd .. : go back one directory
+dir : list files and subdirectories
+ren : rename file || ex. ren "old_name" "new_name"
+
+
+tree /f - tree structure display of directory branches
+
+type nul > name.(filetype) || ex. type nul > main.cpp
+
